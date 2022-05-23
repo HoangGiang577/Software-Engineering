@@ -1,0 +1,25 @@
+C:\Users\Computer\source\repos\StockPro\StockPro\bin\Debug\StockPro.exe.config
+C:\Users\Computer\source\repos\StockPro\StockPro\bin\Debug\StockPro.exe
+C:\Users\Computer\source\repos\StockPro\StockPro\bin\Debug\StockPro.pdb
+C:\Users\Computer\source\repos\StockPro\StockPro\obj\Debug\StockPro.csproj.AssemblyReference.cache
+C:\Users\Computer\source\repos\StockPro\StockPro\obj\Debug\StockPro.Form1.resources
+C:\Users\Computer\source\repos\StockPro\StockPro\obj\Debug\StockPro.Properties.Resources.resources
+C:\Users\Computer\source\repos\StockPro\StockPro\obj\Debug\StockPro.csproj.GenerateResource.cache
+C:\Users\Computer\source\repos\StockPro\StockPro\obj\Debug\StockPro.csproj.CoreCompileInputs.cache
+C:\Users\Computer\source\repos\StockPro\StockPro\obj\Debug\StockPro.exe
+C:\Users\Computer\source\repos\StockPro\StockPro\obj\Debug\StockPro.pdb
+C:\Users\Computer\source\repos\StockPro\StockPro\obj\Debug\StockPro.Export.resources
+C:\Users\Computer\source\repos\StockPro\StockPro\obj\Debug\StockPro.Report.resources
+D:\OneDrive - IT Software\STUDY\Cong nghe phan mem\Cuoi ki\phan 1\StockPro (1)\StockPro\bin\Debug\StockPro.exe.config
+D:\OneDrive - IT Software\STUDY\Cong nghe phan mem\Cuoi ki\phan 1\StockPro (1)\StockPro\bin\Debug\StockPro.exe
+D:\OneDrive - IT Software\STUDY\Cong nghe phan mem\Cuoi ki\phan 1\StockPro (1)\StockPro\bin\Debug\StockPro.pdb
+D:\OneDrive - IT Software\STUDY\Cong nghe phan mem\Cuoi ki\phan 1\StockPro (1)\StockPro\obj\Debug\StockPro.csproj.AssemblyReference.cache
+D:\OneDrive - IT Software\STUDY\Cong nghe phan mem\Cuoi ki\phan 1\StockPro (1)\StockPro\obj\Debug\StockPro.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - IT Software\STUDY\Cong nghe phan mem\Cuoi ki\phan 1\StockPro (1)\StockPro\obj\Debug\StockPro.Export.resources
+D:\OneDrive - IT Software\STUDY\Cong nghe phan mem\Cuoi ki\phan 1\StockPro (1)\StockPro\obj\Debug\StockPro.Form1.resources
+D:\OneDrive - IT Software\STUDY\Cong nghe phan mem\Cuoi ki\phan 1\StockPro (1)\StockPro\obj\Debug\StockPro.Properties.Resources.resources
+D:\OneDrive - IT Software\STUDY\Cong nghe phan mem\Cuoi ki\phan 1\StockPro (1)\StockPro\obj\Debug\StockPro.Report.resources
+D:\OneDrive - IT Software\STUDY\Cong nghe phan mem\Cuoi ki\phan 1\StockPro (1)\StockPro\obj\Debug\StockPro.csproj.GenerateResource.cache
+D:\OneDrive - IT Software\STUDY\Cong nghe phan mem\Cuoi ki\phan 1\StockPro (1)\StockPro\obj\Debug\StockPro.csproj.CoreCompileInputs.cache
+D:\OneDrive - IT Software\STUDY\Cong nghe phan mem\Cuoi ki\phan 1\StockPro (1)\StockPro\obj\Debug\StockPro.exe
+D:\OneDrive - IT Software\STUDY\Cong nghe phan mem\Cuoi ki\phan 1\StockPro (1)\StockPro\obj\Debug\StockPro.pdb
